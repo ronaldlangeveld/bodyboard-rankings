@@ -1,21 +1,54 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
+import Header from "../components/header"
+import TopRiders from "../components/topriders";
+import { useStaticQuery, graphql } from "gatsby"
+import BackgroundImage from 'gatsby-background-image'
 
-const IndexPage = () => (
+const IndexPage = () => {
+
+  const bgImg = {
+    // Defaults are overwrite-able by setting one or each of the following:
+    backgroundSize: 'cover',
+    position: 'relative',
+    backgroundAttachment: 'fixed',
+
+
+  }
+
+  const data = useStaticQuery(graphql`
+  query {
+    background: file(relativePath: { eq: "background.JPG" }) {
+      childImageSharp {
+        fluid(maxWidth: 300) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+  }
+`)
+  const bg = data.background.childImageSharp.fluid;
+  console.log(bg)
+
+return (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <BackgroundImage
+        style={bgImg}
+        Tag="header"
+        className="masthead"
+        fluid={bg}
+        backgroundColor={`#040e18`}>
+    <Header />
+    <TopRiders />
+
+    </BackgroundImage>
+
   </Layout>
+
 )
+}
 
 export default IndexPage

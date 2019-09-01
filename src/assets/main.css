@@ -1,0 +1,111 @@
+
+header.masthead {
+    background: no-repeat center center;
+    background-color: #868e96;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+    width: 100%; 
+    height: 100%;
+  }
+
+  header.masthead .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #23140b;
+    opacity: 0.5;
+  }
+  
+/* section .overlay {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color:#10010f;
+    opacity: 0.5;
+    height: 100%;
+} */
+
+.leaderboard {
+    background-color: #F0CA66;
+    height: 100px;
+    position: relative;
+}
+
+.verticalCenter {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+
+  .yellowBoard {
+    background-color: #F0CA66;
+    height: 50px;
+    position: relative;
+}
+
+.verticalCenter2 {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+
+  .bigText {
+      font-size: 5em;
+  }
+
+  .profilePicRank {
+    background: no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+  }
+
+
+
+  .riderList{
+    display: table;
+    padding: 16px 0;
+    width: 100%;
+}
+
+.riderRanking {
+
+    vertical-align: middle;
+}
+
+li {
+    list-style: none;
+}
+
+.table td, .table th {
+    border: 1px solid #dbdbdb;
+    border-width: 0 0 1px;
+    padding: .5em .75em;
+    vertical-align: middle;
+}
+
+
+.stripeShadow {
+    box-shadow: inset 0 4px 7px 1px #fff, inset 0 -5px 20px rgba(173,186,204,.25), 0 2px 6px rgba(0,21,64,.14), 0 10px 20px rgba(0,21,64,.05);
+}
+
+.flagShadow {
+    box-shadow: 0px 0px 8px 2px #efefef;
+}
