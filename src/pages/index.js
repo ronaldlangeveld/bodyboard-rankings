@@ -15,7 +15,6 @@ const IndexPage = () => {
     position: 'relative',
     backgroundAttachment: 'fixed',
 
-
   }
 
   const data = useStaticQuery(graphql`
@@ -41,6 +40,7 @@ return (
         className="masthead"
         fluid={bg}
         backgroundColor={`#040e18`}>
+
     <Header />
     <TopRiders />
 

@@ -35,7 +35,7 @@ const WomenRiders = () => {
         <tr>
             <td><span className="is-size-4 has-text-weight-bold">{rider.node.rider_rank}</span></td>
             <td><div className="profilePicRank" style={{backgroundImage: `url(${rider.node.profile_pic})`}}></div></td>
-            <td><span className="is-size-6">{rider.node.rider_name}</span> <br /> <span className={`flagShadow is-size-5 flag-icon flag-icon-${rider.node.country_code}`}></span> <span className="has-text-weight-normal is-size-7">{rider.node.rider_country}</span></td>
+            <td><span className="is-size-6">{rider.node.rider_name}</span> <br /> <span className={`is-size-5 flag-icon flag-icon-${rider.node.country_code}`}></span> <span className="has-text-weight-normal is-size-7">{rider.node.rider_country}</span></td>
             <td><span className="is-size-6">{rider.node.total_points}</span></td>
         </tr>
 

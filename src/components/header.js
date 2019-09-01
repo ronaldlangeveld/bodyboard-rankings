@@ -12,11 +12,11 @@ const Header = () => {
 
 
 
-<div class="overlay"></div>
+
         <div className="hero is-fullheight is-transparent">
           <div className="hero-header is-hidden-mobile">
 
-            <div className="container">
+            <div className="container-fluid">
               <div className="columns">
 
                 <div className="column is-6">

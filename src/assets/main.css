@@ -106,6 +106,40 @@ li {
     box-shadow: inset 0 4px 7px 1px #fff, inset 0 -5px 20px rgba(173,186,204,.25), 0 2px 6px rgba(0,21,64,.14), 0 10px 20px rgba(0,21,64,.05);
 }
 
-.flagShadow {
+.Shadow {
     box-shadow: 0px 0px 8px 2px #efefef;
+}
+
+.rectangle1 {
+    width: 244px;
+    height: 30px;
+    top: 0px;
+    background: #000000;
+}
+
+.blackBoard {
+    background-color: #000000;
+    height: 50px;
+    position: relative;
+}
+
+.card {
+    background-color: #383838;
+}
+
+.table {
+    background-color: #383838;
+    color: white;
+}
+
+.bg-gold {
+    background: linear-gradient(9deg, #f0cd6b 50%, #444444 50%);
+    -webkit-backface-visibility: hidden;
+  }
+
+.customBtn {
+    border-width: 2px;
+    border-radius: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
 }

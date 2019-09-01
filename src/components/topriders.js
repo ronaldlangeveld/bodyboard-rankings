@@ -9,28 +9,37 @@ import WomenRiders from './womenRiders';
 
 const TopRiders = () => {
 
+    const yellowBG = {
+        backgroundColor: '#F0CA66'
+    }
+
+
   return (
-    <>
-    <section className="hero is-medium is-dark">
-  <div className="hero-body">
+    <section className="bg-gold">
+
+
+
     <div className="container">
-        <div className="columns is-centered">
+    <br />
+    <br />
+        <div className="columns is-centered ">
 
-            <div className="column is-4">
-
-            <p className="title is-5">Top 5 Womens World Rankings</p>
-            <div className="card stripeShadow">
+            <div className="column is-5">
+            <p className="is-size-2 has-text-weight-bold is-uppercase has-text-centered has-text-light">Top 5 Womens World Rankings </p>
+            <br />
+            {/* <p className="title is-5">Top 5 Womens World Rankings</p> */}
+            <div className="card">
 
 
   <div className="card-content">
-  <table className="table">
+  <table className="table is-fullwidth">
 
       <thead>
           <tr>
+            <td className="has-text-white">Rank</td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>Points</td>
+            <td className="has-text-white">Points</td>
 
           </tr>
       </thead>
@@ -43,31 +52,33 @@ const TopRiders = () => {
 
 </table>
   </div>
-  <div className="card-footer">
 
-      <Link className="card-footer-item">See full rankings</Link>
 
-  </div>
+</div>
+<br />
+<div className="has-text-centered">
+<Link className="button is-outlined is-inverted is-warning has-text-weight-bold customBtn">See full rankings</Link>
 
 </div>
 
             </div>
 
-            <div className="column is-4">
-            <p className="title is-5">Top 5 Mens World Rankings</p>
-
-            <div className="card stripeShadow">
+            <div className="column is-5">
+            {/* <p className="title is-5">Top 5 Mens World Rankings</p> */}
+            <p className="is-size-2 has-text-weight-bold is-uppercase has-text-centered has-text-light">Top 5 Mens World Rankings</p>
+            <br />
+            <div className="card">
 
 
   <div className="card-content">
-  <table className="table">
+  <table className="table is-fullwidth">
 
       <thead>
           <tr>
+            <td className="has-text-white">Rank</td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>Points</td>
+            <td className="has-text-white">Points</td>
 
           </tr>
       </thead>
@@ -78,11 +89,13 @@ const TopRiders = () => {
 
 </table>
   </div>
-  <div className="card-footer">
 
-      <Link className="card-footer-item">See full rankings</Link>
 
-  </div>
+</div>
+<br />
+
+<div className="has-text-centered">
+<Link className="button is-outlined is-inverted is-warning has-text-weight-bold customBtn">See full rankings</Link>
 
 </div>
 
@@ -90,10 +103,7 @@ const TopRiders = () => {
 
         </div>
     </div>
-  </div>
-</section>
-
-    </>
+  </section>
 
   )
 }
