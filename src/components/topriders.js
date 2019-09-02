@@ -72,9 +72,9 @@ const TopRiders = () => {
   <div className="card-content">
   <table className="table is-fullwidth">
 
-      <thead>
+  <thead>
           <tr>
-            <td className="has-text-white">Rank</td>
+            <td className="has-text-white is-size-7-mobile">Rank</td>
             <td></td>
             <td></td>
             <td className="has-text-white is-hidden-touch is-size-7-mobile">Points</td>
