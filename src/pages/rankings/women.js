@@ -55,6 +55,7 @@ const Women = () => {
                         <Link to='/' className="title has-text-light is-size-7 button is-outlined is-inverted is-dark customBtnHome">Back home</Link>
                         </div>
                         <br />
+                        <br />
                             <h1 className="title is-1 has-text-white has-text-centered is-size-5-mobile">World Bodyboarding Women's Rankings</h1>
                         
 
@@ -88,7 +89,7 @@ const Women = () => {
                                             <tr>
                                                 <td className="has-text-white is-size-7-mobile">Rank</td>
                                                 <td></td>
-                                                <td className="has-text-white is-size-7-mobile">On Tour Since</td>
+                                                <td className="has-text-white is-size-7-mobile is-hidden-touch">On Tour Since</td>
                                                 <td className="has-text-white is-size-7-mobile">Points</td>
                                                 <td className="has-text-white is-size-7-mobile">Career Earnings</td>
 
@@ -103,7 +104,7 @@ const Women = () => {
                                                 <tr>
                                                     <td><span className="is-size-4 has-text-weight-bold is-size-7-mobile">{rider.node.rider_rank}</span></td>
                                                     <td><span className="is-size-6 is-size-7-mobile">{rider.node.rider_name}</span> <br /> <span className={`is-size-5 flag-icon flag-icon-${rider.node.country_code}`}></span> <span className="has-text-weight-normal is-size-7">{rider.node.rider_country}</span></td>
-                                                    <td><span className="is-size-6 is-size-7-mobile">{rider.node.since}</span></td>
+                                                    <td className="is-hidden-touch"><span className="is-size-6 is-size-7-mobile">{rider.node.since}</span></td>
                                                     <td><span className="is-size-6 is-size-7-mobile"><NumericLabel>{rider.node.total_points}</NumericLabel></span></td>
                                                     <td><span className="is-size-6 is-size-7-mobile"><NumericLabel params={currency}>{rider.node.career_earnings}</NumericLabel></span></td>
                                                 </tr>
