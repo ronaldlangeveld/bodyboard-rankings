@@ -22,8 +22,11 @@ const Contribute = () => {
     <p className="is-size-2 has-text-weight-bold is-uppercase is-size-7-mobile">
         Developed by <a className="has-text-warning" href="https://www.ronaldlangeveld.com" target="_blank">Ronald Langeveld</a> | September 2019
     </p>
-
-    <p className="help">Data obtained from spreadsheets on the <a className="has-text-warning" href="https://apbtour.com/leaderboard/full-rankings/" target="_blank">APB</a> website. All profile images found by simply Googling them. If it's your photo and don't want me to use it, please email me and I'll happily remove it.</p>
+    <p className="is-size-3 has-text-weight-bold is-uppercase is-size-7-mobile">
+     <a className="has-text-warning" href="https://github.com/ronaldlangeveld/bodyboard-rankings" target="_blank">Source Code</a>
+    </p>
+<br />
+    <p className="help">Disclaimer: Data obtained from spreadsheets on the <a className="has-text-warning" href="https://apbtour.com/leaderboard/full-rankings/" target="_blank">APB</a> website. <br /> All profile images found by simply Googling them. If it's your photo and don't want me to use it, please email me and I'll happily remove it.</p>
 
 
 
