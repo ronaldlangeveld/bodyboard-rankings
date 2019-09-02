@@ -13,56 +13,70 @@ const Header = () => {
 
 
 
-        <div className="hero is-fullheight is-transparent">
-          <div className="hero-header is-hidden-mobile">
+      <div className="hero is-fullheight is-transparent">
+        <div className="hero-header is-hidden-mobile">
 
-            <div className="container-fluid">
-              <div className="columns">
+          <div className="container-fluid">
+            <div className="columns">
 
-                <div className="column is-6">
-
-                </div>
-                <div className="column is-6">
-                  <br />
-                  <div className="yellowBoard">
-                    <p className="is-size-5 has-text-weight-bold is-uppercase verticalCenter2 has-text-right">Updated: 1 September 2019 &nbsp;</p>
-                  </div>
-                </div>
+              <div className="column is-6">
 
               </div>
+              <div className="column is-6">
+                <br />
+                <div className="yellowBoard">
+                  <p className="is-size-5 has-text-weight-bold is-uppercase verticalCenter2 has-text-right">Updated: 1 September 2019 &nbsp;</p>
+                </div>
+              </div>
+
             </div>
-
           </div>
-          <div className="hero-body">
 
+        </div>
+        <div className="hero-body">
+
+          <div className="is-hidden-desktop">
+          <div className="container">
+          <span className="is-size-3 has-text-weight-bold has-text-white is-uppercase is-size-6-mobile">The Unoffical</span>
+            <p className="bigText has-text-weight-bold has-text-white is-uppercase is-size-4-mobile">Bodyboarding <br /> World Tour </p>
+            <br />
+            <span className="is-size-1 has-text-weight-bold is-uppercase is-size-5-mobile has-text-white">Leaderboard</span>
           </div>
-          <div className="hero-footer">
+          </div>
 
-            <div className="container">
-              <span className="is-size-3 has-text-weight-bold has-text-white is-uppercase is-size-3-mobile">The Unoffical</span>
-              <p className="bigText has-text-weight-bold has-text-white is-uppercase is-size-1-mobile">Bodyboarding <br /> World Tour </p>
-              <br />
+        </div>
 
+
+        <div className="hero-footer is-hidden-touch">
+
+          <div className="container">
+            <span className="is-size-3 has-text-weight-bold has-text-white is-uppercase is-size-6-mobile">The Unoffical</span>
+            <p className="bigText has-text-weight-bold has-text-white is-uppercase is-size-3-mobile">Bodyboarding <br /> World Tour </p>
+            <br />
+            
+
+      
               <div className="leaderboard">
                 <div className="columns">
                   <div className="column">
                     <div>
 
-                      <span className="is-size-1 has-text-weight-bold is-uppercase is-size-1-mobile">&nbsp; Leaderboard</span>
+                      <span className="is-size-1 has-text-weight-bold is-uppercase is-size-3-mobile">&nbsp; Leaderboard</span>
                     </div>
 
                   </div>
 
-                </div>
               </div>
-              <br />
-
             </div>
+
+            <br />
 
           </div>
 
-
         </div>
+
+
+      </div>
 
     </>
 

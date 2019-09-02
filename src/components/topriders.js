@@ -25,7 +25,7 @@ const TopRiders = () => {
         <div className="columns is-centered ">
 
             <div className="column is-5">
-            <p className="is-size-2 has-text-weight-bold is-uppercase has-text-centered has-text-light">Top 5 Womens World Rankings </p>
+            <p className="is-size-2 has-text-weight-bold is-uppercase has-text-centered has-text-light is-size-6-mobile">Top 5 Womens World Rankings </p>
             <br />
             {/* <p className="title is-5">Top 5 Womens World Rankings</p> */}
             <div className="card">
@@ -36,10 +36,10 @@ const TopRiders = () => {
 
       <thead>
           <tr>
-            <td className="has-text-white">Rank</td>
+            <td className="has-text-white is-size-7-mobile">Rank</td>
+            <td className="is-hidden-touch"></td>
             <td></td>
-            <td></td>
-            <td className="has-text-white">Points</td>
+            <td className="has-text-white is-size-7-mobile">Points</td>
 
           </tr>
       </thead>
@@ -64,7 +64,7 @@ const TopRiders = () => {
 
             <div className="column is-5">
             {/* <p className="title is-5">Top 5 Mens World Rankings</p> */}
-            <p className="is-size-2 has-text-weight-bold is-uppercase has-text-centered has-text-light">Top 5 Mens World Rankings</p>
+            <p className="is-size-2 has-text-weight-bold is-uppercase has-text-centered has-text-light is-size-6-mobile">Top 5 Mens World Rankings</p>
             <br />
             <div className="card">
 
@@ -75,7 +75,7 @@ const TopRiders = () => {
       <thead>
           <tr>
             <td className="has-text-white">Rank</td>
-            <td></td>
+            <td className="is-hidden-touch"></td>
             <td></td>
             <td className="has-text-white">Points</td>
 
