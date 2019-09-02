@@ -37,9 +37,9 @@ const TopRiders = () => {
       <thead>
           <tr>
             <td className="has-text-white is-size-7-mobile">Rank</td>
-            <td className="is-hidden-touch"></td>
             <td></td>
-            <td className="has-text-white is-size-7-mobile">Points</td>
+            <td></td>
+            <td className="has-text-white is-hidden-touch is-size-7-mobile">Points</td>
 
           </tr>
       </thead>
@@ -75,9 +75,9 @@ const TopRiders = () => {
       <thead>
           <tr>
             <td className="has-text-white">Rank</td>
-            <td className="is-hidden-touch"></td>
             <td></td>
-            <td className="has-text-white">Points</td>
+            <td></td>
+            <td className="has-text-white is-hidden-touch is-size-7-mobile">Points</td>
 
           </tr>
       </thead>
