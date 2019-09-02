@@ -57,8 +57,7 @@ const TopRiders = () => {
 </div>
 <br />
 <div className="has-text-centered">
-<Link className="button is-outlined is-inverted is-warning has-text-weight-bold customBtn">See full rankings</Link>
-
+<Link to="/rankings/women" className="button is-outlined is-inverted is-warning has-text-weight-bold customBtn">See full rankings</Link>
 </div>
 
             </div>
@@ -95,7 +94,7 @@ const TopRiders = () => {
 <br />
 
 <div className="has-text-centered">
-<Link className="button is-outlined is-inverted is-warning has-text-weight-bold customBtn">See full rankings</Link>
+<Link to='/rankings/men' className="button is-outlined is-inverted is-warning has-text-weight-bold customBtn">See full rankings</Link>
 
 </div>
 
@@ -103,6 +102,8 @@ const TopRiders = () => {
 
         </div>
     </div>
+    <br />
+    <br />
   </section>
 
   )

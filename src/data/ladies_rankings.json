@@ -1,312 +1,312 @@
 [
-    {
-      "rider_rank": 1,
-      "rider_name": "Ayaka Suzuki",
-      "rider_country": "Japan",
-      "country_code": "jp",
-      "total_points": 15570,
-      "career_earnings": "32,095.00",
-      "since": 2010,
-      "profile_pic": "https://ac-static.api.everforth.com/img/post/8921c61d-298a-4fd4-b513-4e1e4cfebb26/711c72f74085d37aae1b675c1bbeb883.jpg"
-    },
-    {
-      "rider_rank": 2,
-      "rider_name": "Sari Ohhara",
-      "rider_country": "Japan",
-      "country_code": "jp",
-      "total_points": 15480,
-      "career_earnings": "39,375.00",
-      "since": 2009,
-      "profile_pic": "https://www.riptidemag.com.au/wp-content/uploads/2015/09/11224250_699266616845268_5167226602410645370_o.jpg"
-    },
-    {
-      "rider_rank": 3,
-      "rider_name": "Anais Velis",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 14490,
-      "career_earnings": "9,200.00",
-      "since": 2013,
-      "profile_pic": "https://static.wixstatic.com/media/831ddf_b87941f6df7445b0acb243925612babc~mv2.jpg"
-    },
-    {
-      "rider_rank": 4,
-      "rider_name": "Isabela Sousa",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 13140,
-      "career_earnings": "71,275.00",
-      "since": 2006,
-      "profile_pic": "https://ekladata.com/2HB9a4EJSruxmj-a4v_IZqktceg.jpg"
-    },
-    {
-      "rider_rank": 5,
-      "rider_name": "Joana Schenker",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 12060,
-      "career_earnings": "19,470.00",
-      "since": 2002,
-      "profile_pic": "https://www.mundoportugues.pt/wp-content/uploads/sites/3/2018/01/joana-schenker-entrevista-890x678.jpg"
-    },
-    {
-      "rider_rank": 6,
-      "rider_name": "Valentina Diaz",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 9990,
-      "career_earnings": "5,200.00",
-      "since": 2013,
-      "profile_pic": "https://m.alairelibre.cl/noticias/site/artic/20181010/imag/foto_0000001920181010193307.jpg"
-    },
-    {
-      "rider_rank": 6,
-      "rider_name": "Neymara Carvalho",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 9990,
-      "career_earnings": "20,900.00",
-      "since": 1995,
-      "profile_pic": "https://s2.glbimg.com/aQDaLrGFtjjK-WTta_02_7GR_qU=/14x23:2974x1907/690x439/s.glbimg.com/es/ge/f/original/2013/09/06/neymaracarvalho_8920_rbi_dia4_fotopedromonteiro_adding.jpg"
-    },
-    {
-      "rider_rank": 6,
-      "rider_name": "Teresa Miranda",
-      "rider_country": "Spain",
-      "country_code": "es",
-      "total_points": 9990,
-      "career_earnings": "1,100.00",
-      "since": 2019,
-      "profile_pic": "https://4.bp.blogspot.com/-vXjDZfoi6Q8/W2IN86HJyUI/AAAAAAAAG40/GTWoWRnYiu8ifpK-kii5CgyiO24dUBaCgCLcBGAs/s1600/IMG-20180323-WA0028.jpg"
-    },
-    {
-      "rider_rank": 6,
-      "rider_name": "Alexandra Rinder",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 9990,
-      "career_earnings": "34,755.00",
-      "since": 2009,
-      "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResQawnE8yrYGQymhlUsZl7uQQlPNJNLb9q_yy0bCXEsZ_eA8h"
-    },
-    {
-      "rider_rank": 6,
-      "rider_name": "Maira Viana",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 9990,
-      "career_earnings": "9,600.00",
-      "since": 2008,
-      "profile_pic": "https://s3.glbimg.com/v1/AUTH_e23cd0767cb84b2c865c204683cba493/articles/maira.jpeg"
-    },
-    {
-      "rider_rank": 11,
-      "rider_name": "Madalena Valerio",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 9540,
-      "career_earnings": "2,050.00",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 12,
-      "rider_name": "Teresa Padrela",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 8325,
-      "career_earnings": "1,805.00",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 12,
-      "rider_name": "Luz Marie Grand",
-      "rider_country": "Puerto Rico",
-      "country_code": "pr",
-      "total_points": 8325,
-      "career_earnings": "11,325.00",
-      "since": 2004,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 14,
-      "rider_name": "Paloma Freyggang",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 8100,
-      "career_earnings": "5,175.00",
-      "since": 2004,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 15,
-      "rider_name": "Suy-yin Estay",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7875,
-      "career_earnings": "600.00",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 16,
-      "rider_name": "Mariana Rosa",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 7470,
-      "career_earnings": "795.00",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 16,
-      "rider_name": "Danicelly Vallejos",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7470,
-      "career_earnings": "350.00",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 18,
-      "rider_name": "Gutta Borges",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 7200,
-      "career_earnings": "0.00",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 19,
-      "rider_name": "Savitri Alvarez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7020,
-      "career_earnings": "850.00",
-      "since": 2015,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 19,
-      "rider_name": "Beatriz Arleo",
-      "rider_country": "Venezuela",
-      "country_code": "ve",
-      "total_points": 7020,
-      "career_earnings": "400.00",
-      "since": 2011,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 19,
-      "rider_name": "Begona Martinez",
-      "rider_country": "Venezuela",
-      "country_code": "ve",
-      "total_points": 7020,
-      "career_earnings": "1,225.00",
-      "since": 2010,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 22,
-      "rider_name": "Carla Leon",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 6480,
-      "career_earnings": "0.00",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 23,
-      "rider_name": "Teresa Almeida",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 3825,
-      "career_earnings": "7,720.00",
-      "since": 2009,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 24,
-      "rider_name": "Daniela Caqueo",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3600,
-      "career_earnings": "625.00",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 24,
-      "rider_name": "Viviana Araya",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3600,
-      "career_earnings": "0.00",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 26,
-      "rider_name": "Soraya Valdiveiso",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3420,
-      "career_earnings": "750.00",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 26,
-      "rider_name": "Valentina Bobadilla",
-      "rider_country": "Uruguay",
-      "country_code": "uy",
-      "total_points": 3420,
-      "career_earnings": "0.00",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 26,
-      "rider_name": "Angela Alvarez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3420,
-      "career_earnings": "0.00",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 29,
-      "rider_name": "Catalina Hernandez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3240,
-      "career_earnings": "0.00",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 29,
-      "rider_name": "Gina Araya",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3240,
-      "career_earnings": "0.00",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 29,
-      "rider_name": "Almendra Rosales",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3240,
-      "career_earnings": "0.00",
-      "since": 2019,
-      "profile_pic": ""
-    }
-   ]
+  {
+    "rider_rank": 1,
+    "rider_name": "Ayaka Suzuki",
+    "rider_country": "Japan",
+    "country_code": "jp",
+    "total_points": 15570,
+    "career_earnings": 32095,
+    "since": 2010,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398162/riders/ayaka.jpg"
+  },
+  {
+    "rider_rank": 2,
+    "rider_name": "Sari Ohhara",
+    "rider_country": "Japan",
+    "country_code": "jp",
+    "total_points": 15480,
+    "career_earnings": 39375,
+    "since": 2009,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398162/riders/sari.jpg"
+  },
+  {
+    "rider_rank": 3,
+    "rider_name": "Anais Velis",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 14490,
+    "career_earnings": 9200,
+    "since": 2013,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398164/riders/anais.jpg"
+  },
+  {
+    "rider_rank": 4,
+    "rider_name": "Isabela Sousa",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 13140,
+    "career_earnings": 71275,
+    "since": 2006,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398162/riders/souza.jpg"
+  },
+  {
+    "rider_rank": 5,
+    "rider_name": "Joana Schenker",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 12060,
+    "career_earnings": 19470,
+    "since": 2002,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398161/riders/joana.jpg"
+  },
+  {
+    "rider_rank": 6,
+    "rider_name": "Valentina Diaz",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 9990,
+    "career_earnings": 5200,
+    "since": 2013,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398161/riders/diaz.jpg"
+  },
+  {
+    "rider_rank": 6,
+    "rider_name": "Neymara Carvalho",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 9990,
+    "career_earnings": 20900,
+    "since": 1995,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398162/riders/neymara.jpg"
+  },
+  {
+    "rider_rank": 6,
+    "rider_name": "Teresa Miranda",
+    "rider_country": "Spain",
+    "country_code": "es",
+    "total_points": 9990,
+    "career_earnings": 1100,
+    "since": 2019,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398163/riders/teresa.jpg"
+  },
+  {
+    "rider_rank": 6,
+    "rider_name": "Alexandra Rinder",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 9990,
+    "career_earnings": 34755,
+    "since": 2009,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398163/riders/rinder.jpg"
+  },
+  {
+    "rider_rank": 6,
+    "rider_name": "Maira Viana",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 9990,
+    "career_earnings": 9600,
+    "since": 2008,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398162/riders/viana.jpg"
+  },
+  {
+    "rider_rank": 11,
+    "rider_name": "Madalena Valerio",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 9540,
+    "career_earnings": 2050,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 12,
+    "rider_name": "Teresa Padrela",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 8325,
+    "career_earnings": 1805,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 12,
+    "rider_name": "Luz Marie Grand",
+    "rider_country": "Puerto Rico",
+    "country_code": "pr",
+    "total_points": 8325,
+    "career_earnings": 11325,
+    "since": 2004,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 14,
+    "rider_name": "Paloma Freyggang",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 8100,
+    "career_earnings": 5175,
+    "since": 2004,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 15,
+    "rider_name": "Suy-yin Estay",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7875,
+    "career_earnings": 600,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 16,
+    "rider_name": "Mariana Rosa",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 7470,
+    "career_earnings": 795,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 16,
+    "rider_name": "Danicelly Vallejos",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7470,
+    "career_earnings": 350,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 18,
+    "rider_name": "Gutta Borges",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 7200,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 19,
+    "rider_name": "Savitri Alvarez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7020,
+    "career_earnings": 850,
+    "since": 2015,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 19,
+    "rider_name": "Beatriz Arleo",
+    "rider_country": "Venezuela",
+    "country_code": "ve",
+    "total_points": 7020,
+    "career_earnings": 400,
+    "since": 2011,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 19,
+    "rider_name": "Begona Martinez",
+    "rider_country": "Venezuela",
+    "country_code": "ve",
+    "total_points": 7020,
+    "career_earnings": 1225,
+    "since": 2010,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 22,
+    "rider_name": "Carla Leon",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 6480,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 23,
+    "rider_name": "Teresa Almeida",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 3825,
+    "career_earnings": 7720,
+    "since": 2009,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 24,
+    "rider_name": "Daniela Caqueo",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3600,
+    "career_earnings": 625,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 24,
+    "rider_name": "Viviana Araya",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3600,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 26,
+    "rider_name": "Soraya Valdiveiso",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3420,
+    "career_earnings": 750,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 26,
+    "rider_name": "Valentina Bobadilla",
+    "rider_country": "Uruguay",
+    "country_code": "uy",
+    "total_points": 3420,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 26,
+    "rider_name": "Angela Alvarez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3420,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 29,
+    "rider_name": "Catalina Hernandez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3240,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 29,
+    "rider_name": "Gina Araya",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3240,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 29,
+    "rider_name": "Almendra Rosales",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3240,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  }
+ ]

@@ -1,1552 +1,1552 @@
 [
-    {
-      "rider_rank": 1,
-      "rider_name": "Pierre Louis Costes",
-      "rider_country": "France",
-      "country_code": "fr",
-      "total_points": 21370,
-      "career_earnings": "$126,750 ",
-      "since": 2004,
-      "profile_pic": "https://www.surfertoday.com/images/stories/pierrelouiscostes20.jpg"
-    },
-    {
-      "rider_rank": 2,
-      "rider_name": "Tristan Roberts",
-      "rider_country": "South Africa",
-      "country_code": "za",
-      "total_points": 21030,
-      "career_earnings": "$48,950 ",
-      "since": 2013,
-      "profile_pic": "https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/44805837_2129285920427041_2729671369825452032_n.jpg?_nc_cat=107&_nc_oc=AQmnq-Y5MUjvpxXVC3JRfvNWjLSXU9uX8J_L1r-yK8WjDieg5Hb5w6MQwxilR-sletE&_nc_ht=scontent.fbkk8-2.fna&oh=19df434862c5a041b87d6c3000e49e94&oe=5E0F00A3"
-    },
-    {
-      "rider_rank": 3,
-      "rider_name": "Sammy Morretino",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 22710,
-      "career_earnings": "$16,950 ",
-      "since": 2016,
-      "profile_pic": "https://www.surfertoday.com/images/stories/sammymorrentino.jpg"
-    },
-    {
-      "rider_rank": 4,
-      "rider_name": "Alan Munoz",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 18540,
-      "career_earnings": "$38,650 ",
-      "since": 2007,
-      "profile_pic": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t31.0-8/19944578_1420578378034820_5340730619188755666_o.jpg?_nc_cat=105&_nc_oc=AQkcrl3SNDkF6AoguH8VS38zso9Cs1f7pg-9BGC24l-z8Nv14O0pkLjwZDWC4Cd91mI&_nc_ht=scontent.fbkk12-2.fna&oh=e2e49fbf9b4edb750a650dd0e411b3da&oe=5E10CC37"
-    },
-    {
-      "rider_rank": 5,
-      "rider_name": "Dudu Pedra",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 19499,
-      "career_earnings": "$18,000 ",
-      "since": 2011,
-      "profile_pic": "https://i.ytimg.com/vi/hnXZw9QFP3A/hqdefault.jpg"
-    },
-    {
-      "rider_rank": 6,
-      "rider_name": "Diego Cabrera",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 18005,
-      "career_earnings": "$31,800 ",
-      "since": 2006,
-      "profile_pic": "https://www.meduxa.com/images/diegoatlas1.jpg"
-    },
-    {
-      "rider_rank": 7,
-      "rider_name": "Uri Valadao",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 16130,
-      "career_earnings": "$60,550 ",
-      "since": 2002,
-      "profile_pic": "https://www.salvadordabahia.com/wp-content/uploads/2018/09/StellaMaris_EscolaDeSurfUriValadao_Amanda-Oliveira-21-427x640.jpg"
-    },
-    {
-      "rider_rank": 8,
-      "rider_name": "Lewy Finnegan",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 15750,
-      "career_earnings": "$29,050 ",
-      "since": 2011,
-      "profile_pic": "https://s3-ap-southeast-2.amazonaws.com/content.communitynews.com.au/2018/01/16081353/d477532a-WT.jpg"
-    },
-    {
-      "rider_rank": 9,
-      "rider_name": "George Humphreys",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 14890,
-      "career_earnings": "$10,150 ",
-      "since": 2013,
-      "profile_pic": "https://foundboards.com/wordpress/wp-content/uploads/2012/11/Screen-shot-2012-11-13-at-7.13.28-AM.png"
-    },
-    {
-      "rider_rank": 10,
-      "rider_name": "Gabriel Braga",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 14826,
-      "career_earnings": "$5,800 ",
-      "since": 2015,
-      "profile_pic": "https://www.surfbahia.com.br/midia/arquivosGerenciador/images/Bodyboard/Gabriel%20Braga%20Bodyboarding.jpg"
-    },
-    {
-      "rider_rank": 11,
-      "rider_name": "Yoshua Toledo",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 14750,
-      "career_earnings": "$7,450 ",
-      "since": 2012,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 12,
-      "rider_name": "Tanner McDaniel",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 14385,
-      "career_earnings": "$30,800 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 13,
-      "rider_name": "Nelson Flores",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 14036,
-      "career_earnings": "$9,700 ",
-      "since": 2015,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 14,
-      "rider_name": "Jared Houston",
-      "rider_country": "South Africa",
-      "country_code": "za",
-      "total_points": 13804,
-      "career_earnings": "$74,450 ",
-      "since": 2009,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 15,
-      "rider_name": "Maxime Castillo",
-      "rider_country": "France",
-      "country_code": "fr",
-      "total_points": 13760,
-      "career_earnings": "$16,400 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 16,
-      "rider_name": "Socrates Santana",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 13420,
-      "career_earnings": "$9,450 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 17,
-      "rider_name": "Matias Dias",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 13358,
-      "career_earnings": "$9,150 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 18,
-      "rider_name": "Iain Campbell",
-      "rider_country": "South Africa",
-      "country_code": "za",
-      "total_points": 14150,
-      "career_earnings": "$77,680 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 19,
-      "rider_name": "Isaias Ravyc",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 12220,
-      "career_earnings": "$3,950 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 20,
-      "rider_name": "Josh Burguete Kirkman",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 11940,
-      "career_earnings": "$5,050 ",
-      "since": 2002,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 21,
-      "rider_name": "Cristobal Fernandez",
-      "rider_country": "Easter Is",
-      "country_code": "cl",
-      "total_points": 11334,
-      "career_earnings": "$3,700 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 22,
-      "rider_name": "Eder Luciano",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 11289,
-      "career_earnings": "$41,400 ",
-      "since": 2005,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 23,
-      "rider_name": "Patrick Orr",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 12144,
-      "career_earnings": "$4,650 ",
-      "since": 2011,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 24,
-      "rider_name": "Brahim Iddouch",
-      "rider_country": "Morocco",
-      "country_code": "ma",
-      "total_points": 10915,
-      "career_earnings": "$31,750 ",
-      "since": 2009,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 25,
-      "rider_name": "Kevin Orihuela",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 10788,
-      "career_earnings": "$6,800 ",
-      "since": 2008,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 26,
-      "rider_name": "Kevin Torres",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 10735,
-      "career_earnings": "$6,300 ",
-      "since": 2009,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 27,
-      "rider_name": "Davis Blackwell",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 10598,
-      "career_earnings": "$2,550 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 28,
-      "rider_name": "Miguel Rodriguez",
-      "rider_country": "Peru",
-      "country_code": "pe",
-      "total_points": 10120,
-      "career_earnings": "$5,600 ",
-      "since": 2009,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 29,
-      "rider_name": "Maikol Pascal",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 10065,
-      "career_earnings": "$2,300 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 30,
-      "rider_name": "Manuel Cepeda",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 9580,
-      "career_earnings": "$1,400 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 31,
-      "rider_name": "Moises Silva",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 9490,
-      "career_earnings": "$1,700 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 32,
-      "rider_name": "Diego Sepulveda",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 9400,
-      "career_earnings": "$3,550 ",
-      "since": 2015,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 33,
-      "rider_name": "Eduardo Guzman Troncoso",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 9116,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 34,
-      "rider_name": "Mack Crilley",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 7916,
-      "career_earnings": "$2,185 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 35,
-      "rider_name": "David Barbosa",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 7900,
-      "career_earnings": "$9,150 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 36,
-      "rider_name": "Joaquin Viveros",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7878,
-      "career_earnings": "$0 ",
-      "since": 2007,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 37,
-      "rider_name": "Adejaldo Silva",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 7864,
-      "career_earnings": "$0 ",
-      "since": 2015,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 38,
-      "rider_name": "Cristobal Sciaraffia",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7554,
-      "career_earnings": "$600 ",
-      "since": 2007,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 39,
-      "rider_name": "Joaquin Soto",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7396,
-      "career_earnings": "$1,700 ",
-      "since": 2015,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 40,
-      "rider_name": "Andre Luis",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 7392,
-      "career_earnings": "$250 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 41,
-      "rider_name": "Sacha Damjanic",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 7279,
-      "career_earnings": "$5,350 ",
-      "since": 2012,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 42,
-      "rider_name": "Sergio Machado Jr",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 6800,
-      "career_earnings": "$1,900 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 43,
-      "rider_name": "Jonathan Chaparro",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 6708,
-      "career_earnings": "$350 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 44,
-      "rider_name": "Alan Espinoza",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 6602,
-      "career_earnings": "$3,000 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 45,
-      "rider_name": "Marcelo Faundes",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 6566,
-      "career_earnings": "$1,450 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 46,
-      "rider_name": "Jordan Villalba",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 6300,
-      "career_earnings": "$200 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 47,
-      "rider_name": "Jeff Hubbard",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 6190,
-      "career_earnings": "$60,400 ",
-      "since": 2000,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 48,
-      "rider_name": "Rodrigo Silva",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 6144,
-      "career_earnings": "$200 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 49,
-      "rider_name": "Aitor Ojeda",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 5666,
-      "career_earnings": "$1,400 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 50,
-      "rider_name": "Amaury Lavernhe",
-      "rider_country": "France",
-      "country_code": "fr",
-      "total_points": 4880,
-      "career_earnings": "$77,000 ",
-      "since": 2004,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 51,
-      "rider_name": "Menelik Nazir",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 4564,
-      "career_earnings": "$625 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 52,
-      "rider_name": "Cristian Tapia",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 4420,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 53,
-      "rider_name": "Kalani Lattanzi",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 4000,
-      "career_earnings": "$6,200 ",
-      "since": 2011,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 53,
-      "rider_name": "Igor Sanchez",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 4000,
-      "career_earnings": "$4,000 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 55,
-      "rider_name": "Diego Berrios",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 3904,
-      "career_earnings": "$200 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 56,
-      "rider_name": "Joao Zik",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 3600,
-      "career_earnings": "$5,800 ",
-      "since": 2010,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 57,
-      "rider_name": "Maxime Ausina",
-      "rider_country": "Basque",
-      "country_code": "es",
-      "total_points": 3200,
-      "career_earnings": "$1,800 ",
-      "since": 2015,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 57,
-      "rider_name": "Marcelo Barros",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 3200,
-      "career_earnings": "$600 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 59,
-      "rider_name": "Michael Duque",
-      "rider_country": "Ecuador",
-      "country_code": "ec",
-      "total_points": 3134,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 60,
-      "rider_name": "Chris Hodges",
-      "rider_country": "USA",
-      "country_code": "us",
-      "total_points": 2900,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 61,
-      "rider_name": "Sebastian Araya",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2808,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 62,
-      "rider_name": "Hayato Enokido",
-      "rider_country": "Japan",
-      "country_code": "jp",
-      "total_points": 2770,
-      "career_earnings": "$5,400 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 63,
-      "rider_name": "Hermano Castro",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 2720,
-      "career_earnings": "$2,800 ",
-      "since": 2001,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 63,
-      "rider_name": "Travis Smith",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 2720,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 65,
-      "rider_name": "Gaston Rojas",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2682,
-      "career_earnings": "$200 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 65,
-      "rider_name": "Claudio Alquinta",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2682,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 65,
-      "rider_name": "Renato Arellano",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2682,
-      "career_earnings": "$3,100 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 68,
-      "rider_name": "Joao Paulo",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 2608,
-      "career_earnings": "$2,000 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 69,
-      "rider_name": "Ian Aros",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2576,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 70,
-      "rider_name": "Julian Gonzalez Perez",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 2544,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 71,
-      "rider_name": "Jorge Barrera",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2448,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 71,
-      "rider_name": "Miguel Contreras",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2448,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 71,
-      "rider_name": "Marcelo Toro",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2448,
-      "career_earnings": "$200 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 71,
-      "rider_name": "Ossman Caracciolo",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2448,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 71,
-      "rider_name": "Jack Baker",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 2448,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 76,
-      "rider_name": "Lucas Rodrigues",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 2384,
-      "career_earnings": "$800 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 76,
-      "rider_name": "Andre Sancho",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 2384,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 78,
-      "rider_name": "Omar Rios",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2348,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 79,
-      "rider_name": "Alexander Wittmann",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2250,
-      "career_earnings": "$800 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 79,
-      "rider_name": "Armide Soliveres",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 2250,
-      "career_earnings": "$4,025 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 81,
-      "rider_name": "Pedro Lopez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2214,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 81,
-      "rider_name": "Irwin Cloarec",
-      "rider_country": "France",
-      "country_code": "fr",
-      "total_points": 2214,
-      "career_earnings": "$0 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 81,
-      "rider_name": "Brandon Leon",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2214,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 81,
-      "rider_name": "Teninson Araya",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2214,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 85,
-      "rider_name": "Jericco Rosero",
-      "rider_country": "Ecuador",
-      "country_code": "ec",
-      "total_points": 2128,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 85,
-      "rider_name": "Yazdanny Castro",
-      "rider_country": "Costa Rica",
-      "country_code": "cr",
-      "total_points": 2128,
-      "career_earnings": "$300 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 85,
-      "rider_name": "Jorge Saavedra",
-      "rider_country": "Peru",
-      "country_code": "pe",
-      "total_points": 2128,
-      "career_earnings": "$200 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 85,
-      "rider_name": "Arturo Soto",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 2128,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 85,
-      "rider_name": "Yvon Martinez",
-      "rider_country": "France",
-      "country_code": "fr",
-      "total_points": 2128,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 85,
-      "rider_name": "Nestor Benavides",
-      "rider_country": "Argentina",
-      "country_code": "ar",
-      "total_points": 2128,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 91,
-      "rider_name": "Nakana Rivera",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 2010,
-      "career_earnings": "$900 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 92,
-      "rider_name": "Christian Fernandez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1904,
-      "career_earnings": "$600 ",
-      "since": null,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 92,
-      "rider_name": "Yony Aguirre",
-      "rider_country": "Peru",
-      "country_code": "pe",
-      "total_points": 1904,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 92,
-      "rider_name": "Hugo Menedez",
-      "rider_country": "Costa Rica",
-      "country_code": "cr",
-      "total_points": 1904,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 92,
-      "rider_name": "Augusto Francia",
-      "rider_country": "Peru",
-      "country_code": "pe",
-      "total_points": 1904,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 92,
-      "rider_name": "Miguel Herrera",
-      "rider_country": "Venezuela",
-      "country_code": "ve",
-      "total_points": 1904,
-      "career_earnings": "$1,000 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 97,
-      "rider_name": "Dave Hubbard",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1830,
-      "career_earnings": "$37,550 ",
-      "since": 2004,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 97,
-      "rider_name": "Kawika Kamai",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1830,
-      "career_earnings": "$1,600 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 99,
-      "rider_name": "Rachid Lorenz",
-      "rider_country": "Canary Islands",
-      "country_code": "es",
-      "total_points": 1696,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 100,
-      "rider_name": "Ronaldo Gomez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1630,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 101,
-      "rider_name": "Mike Stewart",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1500,
-      "career_earnings": "$94,000 ",
-      "since": 1982,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 102,
-      "rider_name": "Agustin Figueroa",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1490,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 102,
-      "rider_name": "Juan Antonio Fisher",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1490,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 102,
-      "rider_name": "Patricio Galay",
-      "rider_country": "Argentina",
-      "country_code": "ar",
-      "total_points": 1490,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 102,
-      "rider_name": "Amaro Sabat",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1490,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 106,
-      "rider_name": "Jacob Romero",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1464,
-      "career_earnings": "$27,500 ",
-      "since": 2008,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 106,
-      "rider_name": "Kahekili Labatte",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1464,
-      "career_earnings": "$750 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 108,
-      "rider_name": "Camilo Pinto",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1360,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 108,
-      "rider_name": "Victor Gonzalez",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1360,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 108,
-      "rider_name": "Gaston Scheidegger",
-      "rider_country": "Argentina",
-      "country_code": "ar",
-      "total_points": 1360,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 108,
-      "rider_name": "Pedro Nieto",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1360,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 112,
-      "rider_name": "Magno Passos",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 1350,
-      "career_earnings": "$18,150 ",
-      "since": 2005,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 112,
-      "rider_name": "Spencer Skipper",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1350,
-      "career_earnings": "$3,450 ",
-      "since": 1995,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 114,
-      "rider_name": "Kane Brewer",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 1239,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 114,
-      "rider_name": "Andre Bernardo",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 1239,
-      "career_earnings": "$850 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 114,
-      "rider_name": "Matt Holzman",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1239,
-      "career_earnings": "$0 ",
-      "since": 2011,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 117,
-      "rider_name": "Gabriel Brantes",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1230,
-      "career_earnings": "$1,900 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 117,
-      "rider_name": "Oneill Serrano",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1230,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 117,
-      "rider_name": "Benjamin Ayala",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1230,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 117,
-      "rider_name": "Eduardo Guzman  ",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1230,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 117,
-      "rider_name": "Boris Villalobos",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1230,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 117,
-      "rider_name": "Felix Torres",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1230,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 123,
-      "rider_name": "Liam Lucas",
-      "rider_country": "Australia",
-      "country_code": "au",
-      "total_points": 1140,
-      "career_earnings": "$500 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 123,
-      "rider_name": "Sean Uyechi",
-      "rider_country": "USA",
-      "country_code": "us",
-      "total_points": 1140,
-      "career_earnings": "$0 ",
-      "since": 2018,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 123,
-      "rider_name": "Noa Auweloa",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1140,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 123,
-      "rider_name": "Ian McCaulley",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1140,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 123,
-      "rider_name": "Alistair Taylor",
-      "rider_country": "South Africa",
-      "country_code": "za",
-      "total_points": 1140,
-      "career_earnings": "$1,550 ",
-      "since": 1995,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 123,
-      "rider_name": "Davin Alexander",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 1140,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 129,
-      "rider_name": "Raul Calderon",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1090,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 129,
-      "rider_name": "Jaime Herrera",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1090,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 131,
-      "rider_name": "Isaac Pobelete",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1060,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 131,
-      "rider_name": "Cristian Calfulem",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 1060,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 133,
-      "rider_name": "Jun Toyama",
-      "rider_country": "Japan",
-      "country_code": "jp",
-      "total_points": 996,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 133,
-      "rider_name": "Pohaku Kekaualua",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 996,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 133,
-      "rider_name": "Tim Hamilton",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 996,
-      "career_earnings": "$0 ",
-      "since": 2004,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 133,
-      "rider_name": "Guilherme Tamega",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 996,
-      "career_earnings": "$29,650 ",
-      "since": 1991,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 133,
-      "rider_name": "PJ Tartak",
-      "rider_country": "Puerto Rico",
-      "country_code": "pr",
-      "total_points": 996,
-      "career_earnings": "$400 ",
-      "since": 2011,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 133,
-      "rider_name": "Santiago Kirchner",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 996,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 139,
-      "rider_name": "Kuko Font",
-      "rider_country": "Puerto Rico",
-      "country_code": "pr",
-      "total_points": 894,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 139,
-      "rider_name": "Will Petrovic",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 894,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 141,
-      "rider_name": "Tsuyoshi Maeyama",
-      "rider_country": "Japan",
-      "country_code": "jp",
-      "total_points": 876,
-      "career_earnings": "$0 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 141,
-      "rider_name": "Abner de Arce",
-      "rider_country": "Puerto Rico",
-      "country_code": "pr",
-      "total_points": 876,
-      "career_earnings": "$200 ",
-      "since": 2013,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 143,
-      "rider_name": "Kellen Yamasaki",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 858,
-      "career_earnings": "$0 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 143,
-      "rider_name": "Helliton Loureiro",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 858,
-      "career_earnings": "$21,200 ",
-      "since": 2008,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 143,
-      "rider_name": "Tanek Rucynski",
-      "rider_country": "Hawaii",
-      "country_code": "us",
-      "total_points": 858,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 146,
-      "rider_name": "Taira Takahashi",
-      "rider_country": "Japan",
-      "country_code": "jp",
-      "total_points": 816,
-      "career_earnings": "$400 ",
-      "since": 2017,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 146,
-      "rider_name": "Edson Viera",
-      "rider_country": "Brazil",
-      "country_code": "br",
-      "total_points": 816,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 146,
-      "rider_name": "Nick Enstrom",
-      "rider_country": "South Africa",
-      "country_code": "za",
-      "total_points": 816,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 149,
-      "rider_name": "Joseph Grodzen",
-      "rider_country": "USA",
-      "country_code": "us",
-      "total_points": 774,
-      "career_earnings": "$0 ",
-      "since": 2000,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 149,
-      "rider_name": "Italo Poggini",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 774,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 151,
-      "rider_name": "Tahiri Tehei",
-      "rider_country": "Tahiti",
-      "country_code": "fr",
-      "total_points": 756,
-      "career_earnings": "$0 ",
-      "since": 2016,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 151,
-      "rider_name": "Diego Rojo",
-      "rider_country": "Chile",
-      "country_code": "cl",
-      "total_points": 756,
-      "career_earnings": "$0 ",
-      "since": 2019,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 152,
-      "rider_name": "Antonio Cardoso",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 0,
-      "career_earnings": "$20,900 ",
-      "since": 2007,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 153,
-      "rider_name": "Dino Carmo",
-      "rider_country": "Portugal",
-      "country_code": "pt",
-      "total_points": 0,
-      "career_earnings": "$12,750 ",
-      "since": 2014,
-      "profile_pic": ""
-    },
-    {
-      "rider_rank": 154,
-      "rider_name": "Alex Uranga",
-      "rider_country": "Basque",
-      "country_code": "es",
-      "total_points": 0,
-      "career_earnings": "$47,350 ",
-      "since": 2007,
-      "profile_pic": ""
-    }
-   ]
+  {
+    "rider_rank": 1,
+    "rider_name": "Pierre Louis Costes",
+    "rider_country": "France",
+    "country_code": "fr",
+    "total_points": 21370,
+    "career_earnings": 126750,
+    "since": 2004,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398788/riders/pierrelouiscostes20.jpg"
+  },
+  {
+    "rider_rank": 2,
+    "rider_name": "Tristan Roberts",
+    "rider_country": "South Africa",
+    "country_code": "za",
+    "total_points": 21030,
+    "career_earnings": 48950,
+    "since": 2013,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398810/riders/44805837_2129285920427041_2729671369825452032_n.jpg.jpg"
+  },
+  {
+    "rider_rank": 3,
+    "rider_name": "Sammy Morretino",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 22710,
+    "career_earnings": 16950,
+    "since": 2016,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398827/riders/sammymorrentino.jpg"
+  },
+  {
+    "rider_rank": 4,
+    "rider_name": "Alan Munoz",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 18540,
+    "career_earnings": 38650,
+    "since": 2007,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398851/riders/19944578_1420578378034820_5340730619188755666_o.jpg.jpg"
+  },
+  {
+    "rider_rank": 5,
+    "rider_name": "Dudu Pedra",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 19499,
+    "career_earnings": 18000,
+    "since": 2011,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398923/riders/hqdefault.jpg"
+  },
+  {
+    "rider_rank": 6,
+    "rider_name": "Diego Cabrera",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 18005,
+    "career_earnings": 31800,
+    "since": 2006,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398951/riders/diegoatlas1.jpg"
+  },
+  {
+    "rider_rank": 7,
+    "rider_name": "Uri Valadao",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 16130,
+    "career_earnings": 60550,
+    "since": 2002,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567398973/riders/StellaMaris_EscolaDeSurfUriValadao_Amanda-Oliveira-21-427x640.jpg"
+  },
+  {
+    "rider_rank": 8,
+    "rider_name": "Lewy Finnegan",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 15750,
+    "career_earnings": 29050,
+    "since": 2011,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567399001/riders/d477532a-WT.jpg"
+  },
+  {
+    "rider_rank": 9,
+    "rider_name": "George Humphreys",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 14890,
+    "career_earnings": 10150,
+    "since": 2013,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567399025/riders/Screen-shot-2012-11-13-at-7.13.28-AM.png"
+  },
+  {
+    "rider_rank": 10,
+    "rider_name": "Gabriel Braga",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 14826,
+    "career_earnings": 5800,
+    "since": 2015,
+    "profile_pic": "https://res.cloudinary.com/cinemakers/image/upload/v1567399058/riders/Gabriel_20Braga_20Bodyboarding.jpg"
+  },
+  {
+    "rider_rank": 11,
+    "rider_name": "Yoshua Toledo",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 14750,
+    "career_earnings": 7450,
+    "since": 2012,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 12,
+    "rider_name": "Tanner McDaniel",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 14385,
+    "career_earnings": 30800,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 13,
+    "rider_name": "Nelson Flores",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 14036,
+    "career_earnings": 9700,
+    "since": 2015,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 14,
+    "rider_name": "Jared Houston",
+    "rider_country": "South Africa",
+    "country_code": "za",
+    "total_points": 13804,
+    "career_earnings": 74450,
+    "since": 2009,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 15,
+    "rider_name": "Maxime Castillo",
+    "rider_country": "France",
+    "country_code": "fr",
+    "total_points": 13760,
+    "career_earnings": 16400,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 16,
+    "rider_name": "Socrates Santana",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 13420,
+    "career_earnings": 9450,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 17,
+    "rider_name": "Matias Dias",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 13358,
+    "career_earnings": 9150,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 18,
+    "rider_name": "Iain Campbell",
+    "rider_country": "South Africa",
+    "country_code": "za",
+    "total_points": 14150,
+    "career_earnings": 77680,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 19,
+    "rider_name": "Isaias Ravyc",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 12220,
+    "career_earnings": 3950,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 20,
+    "rider_name": "Josh Burguete Kirkman",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 11940,
+    "career_earnings": 5050,
+    "since": 2002,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 21,
+    "rider_name": "Cristobal Fernandez",
+    "rider_country": "Easter Is",
+    "country_code": "cl",
+    "total_points": 11334,
+    "career_earnings": 3700,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 22,
+    "rider_name": "Eder Luciano",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 11289,
+    "career_earnings": 41400,
+    "since": 2005,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 23,
+    "rider_name": "Patrick Orr",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 12144,
+    "career_earnings": 4650,
+    "since": 2011,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 24,
+    "rider_name": "Brahim Iddouch",
+    "rider_country": "Morocco",
+    "country_code": "ma",
+    "total_points": 10915,
+    "career_earnings": 31750,
+    "since": 2009,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 25,
+    "rider_name": "Kevin Orihuela",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 10788,
+    "career_earnings": 6800,
+    "since": 2008,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 26,
+    "rider_name": "Kevin Torres",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 10735,
+    "career_earnings": 6300,
+    "since": 2009,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 27,
+    "rider_name": "Davis Blackwell",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 10598,
+    "career_earnings": 2550,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 28,
+    "rider_name": "Miguel Rodriguez",
+    "rider_country": "Peru",
+    "country_code": "pe",
+    "total_points": 10120,
+    "career_earnings": 5600,
+    "since": 2009,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 29,
+    "rider_name": "Maikol Pascal",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 10065,
+    "career_earnings": 2300,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 30,
+    "rider_name": "Manuel Cepeda",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 9580,
+    "career_earnings": 1400,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 31,
+    "rider_name": "Moises Silva",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 9490,
+    "career_earnings": 1700,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 32,
+    "rider_name": "Diego Sepulveda",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 9400,
+    "career_earnings": 3550,
+    "since": 2015,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 33,
+    "rider_name": "Eduardo Guzman Troncoso",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 9116,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 34,
+    "rider_name": "Mack Crilley",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 7916,
+    "career_earnings": 2185,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 35,
+    "rider_name": "David Barbosa",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 7900,
+    "career_earnings": 9150,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 36,
+    "rider_name": "Joaquin Viveros",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7878,
+    "career_earnings": 0,
+    "since": 2007,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 37,
+    "rider_name": "Adejaldo Silva",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 7864,
+    "career_earnings": 0,
+    "since": 2015,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 38,
+    "rider_name": "Cristobal Sciaraffia",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7554,
+    "career_earnings": 600,
+    "since": 2007,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 39,
+    "rider_name": "Joaquin Soto",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7396,
+    "career_earnings": 1700,
+    "since": 2015,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 40,
+    "rider_name": "Andre Luis",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 7392,
+    "career_earnings": 250,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 41,
+    "rider_name": "Sacha Damjanic",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 7279,
+    "career_earnings": 5350,
+    "since": 2012,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 42,
+    "rider_name": "Sergio Machado Jr",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 6800,
+    "career_earnings": 1900,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 43,
+    "rider_name": "Jonathan Chaparro",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 6708,
+    "career_earnings": 350,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 44,
+    "rider_name": "Alan Espinoza",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 6602,
+    "career_earnings": 3000,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 45,
+    "rider_name": "Marcelo Faundes",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 6566,
+    "career_earnings": 1450,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 46,
+    "rider_name": "Jordan Villalba",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 6300,
+    "career_earnings": 200,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 47,
+    "rider_name": "Jeff Hubbard",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 6190,
+    "career_earnings": 60400,
+    "since": 2000,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 48,
+    "rider_name": "Rodrigo Silva",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 6144,
+    "career_earnings": 200,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 49,
+    "rider_name": "Aitor Ojeda",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 5666,
+    "career_earnings": 1400,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 50,
+    "rider_name": "Amaury Lavernhe",
+    "rider_country": "France",
+    "country_code": "fr",
+    "total_points": 4880,
+    "career_earnings": 77000,
+    "since": 2004,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 51,
+    "rider_name": "Menelik Nazir",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 4564,
+    "career_earnings": 625,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 52,
+    "rider_name": "Cristian Tapia",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 4420,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 53,
+    "rider_name": "Kalani Lattanzi",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 4000,
+    "career_earnings": 6200,
+    "since": 2011,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 53,
+    "rider_name": "Igor Sanchez",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 4000,
+    "career_earnings": 4000,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 55,
+    "rider_name": "Diego Berrios",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 3904,
+    "career_earnings": 200,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 56,
+    "rider_name": "Joao Zik",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 3600,
+    "career_earnings": 5800,
+    "since": 2010,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 57,
+    "rider_name": "Maxime Ausina",
+    "rider_country": "Basque",
+    "country_code": "es",
+    "total_points": 3200,
+    "career_earnings": 1800,
+    "since": 2015,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 57,
+    "rider_name": "Marcelo Barros",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 3200,
+    "career_earnings": 600,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 59,
+    "rider_name": "Michael Duque",
+    "rider_country": "Ecuador",
+    "country_code": "ec",
+    "total_points": 3134,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 60,
+    "rider_name": "Chris Hodges",
+    "rider_country": "USA",
+    "country_code": "us",
+    "total_points": 2900,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 61,
+    "rider_name": "Sebastian Araya",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2808,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 62,
+    "rider_name": "Hayato Enokido",
+    "rider_country": "Japan",
+    "country_code": "jp",
+    "total_points": 2770,
+    "career_earnings": 5400,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 63,
+    "rider_name": "Hermano Castro",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 2720,
+    "career_earnings": 2800,
+    "since": 2001,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 63,
+    "rider_name": "Travis Smith",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 2720,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 65,
+    "rider_name": "Gaston Rojas",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2682,
+    "career_earnings": 200,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 65,
+    "rider_name": "Claudio Alquinta",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2682,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 65,
+    "rider_name": "Renato Arellano",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2682,
+    "career_earnings": 3100,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 68,
+    "rider_name": "Joao Paulo",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 2608,
+    "career_earnings": 2000,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 69,
+    "rider_name": "Ian Aros",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2576,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 70,
+    "rider_name": "Julian Gonzalez Perez",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 2544,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 71,
+    "rider_name": "Jorge Barrera",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2448,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 71,
+    "rider_name": "Miguel Contreras",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2448,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 71,
+    "rider_name": "Marcelo Toro",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2448,
+    "career_earnings": 200,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 71,
+    "rider_name": "Ossman Caracciolo",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2448,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 71,
+    "rider_name": "Jack Baker",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 2448,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 76,
+    "rider_name": "Lucas Rodrigues",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 2384,
+    "career_earnings": 800,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 76,
+    "rider_name": "Andre Sancho",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 2384,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 78,
+    "rider_name": "Omar Rios",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2348,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 79,
+    "rider_name": "Alexander Wittmann",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2250,
+    "career_earnings": 800,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 79,
+    "rider_name": "Armide Soliveres",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 2250,
+    "career_earnings": 4025,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 81,
+    "rider_name": "Pedro Lopez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2214,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 81,
+    "rider_name": "Irwin Cloarec",
+    "rider_country": "France",
+    "country_code": "fr",
+    "total_points": 2214,
+    "career_earnings": 0,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 81,
+    "rider_name": "Brandon Leon",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2214,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 81,
+    "rider_name": "Teninson Araya",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2214,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 85,
+    "rider_name": "Jericco Rosero",
+    "rider_country": "Ecuador",
+    "country_code": "ec",
+    "total_points": 2128,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 85,
+    "rider_name": "Yazdanny Castro",
+    "rider_country": "Costa Rica",
+    "country_code": "cr",
+    "total_points": 2128,
+    "career_earnings": 300,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 85,
+    "rider_name": "Jorge Saavedra",
+    "rider_country": "Peru",
+    "country_code": "pe",
+    "total_points": 2128,
+    "career_earnings": 200,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 85,
+    "rider_name": "Arturo Soto",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 2128,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 85,
+    "rider_name": "Yvon Martinez",
+    "rider_country": "France",
+    "country_code": "fr",
+    "total_points": 2128,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 85,
+    "rider_name": "Nestor Benavides",
+    "rider_country": "Argentina",
+    "country_code": "ar",
+    "total_points": 2128,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 91,
+    "rider_name": "Nakana Rivera",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 2010,
+    "career_earnings": 900,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 92,
+    "rider_name": "Christian Fernandez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1904,
+    "career_earnings": 600,
+    "since": null,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 92,
+    "rider_name": "Yony Aguirre",
+    "rider_country": "Peru",
+    "country_code": "pe",
+    "total_points": 1904,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 92,
+    "rider_name": "Hugo Menedez",
+    "rider_country": "Costa Rica",
+    "country_code": "cr",
+    "total_points": 1904,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 92,
+    "rider_name": "Augusto Francia",
+    "rider_country": "Peru",
+    "country_code": "pe",
+    "total_points": 1904,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 92,
+    "rider_name": "Miguel Herrera",
+    "rider_country": "Venezuela",
+    "country_code": "ve",
+    "total_points": 1904,
+    "career_earnings": 1000,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 97,
+    "rider_name": "Dave Hubbard",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1830,
+    "career_earnings": 37550,
+    "since": 2004,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 97,
+    "rider_name": "Kawika Kamai",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1830,
+    "career_earnings": 1600,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 99,
+    "rider_name": "Rachid Lorenz",
+    "rider_country": "Canary Islands",
+    "country_code": "es",
+    "total_points": 1696,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 100,
+    "rider_name": "Ronaldo Gomez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1630,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 101,
+    "rider_name": "Mike Stewart",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1500,
+    "career_earnings": 94000,
+    "since": 1982,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 102,
+    "rider_name": "Agustin Figueroa",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1490,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 102,
+    "rider_name": "Juan Antonio Fisher",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1490,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 102,
+    "rider_name": "Patricio Galay",
+    "rider_country": "Argentina",
+    "country_code": "ar",
+    "total_points": 1490,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 102,
+    "rider_name": "Amaro Sabat",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1490,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 106,
+    "rider_name": "Jacob Romero",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1464,
+    "career_earnings": 27500,
+    "since": 2008,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 106,
+    "rider_name": "Kahekili Labatte",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1464,
+    "career_earnings": 750,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 108,
+    "rider_name": "Camilo Pinto",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1360,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 108,
+    "rider_name": "Victor Gonzalez",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1360,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 108,
+    "rider_name": "Gaston Scheidegger",
+    "rider_country": "Argentina",
+    "country_code": "ar",
+    "total_points": 1360,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 108,
+    "rider_name": "Pedro Nieto",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1360,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 112,
+    "rider_name": "Magno Passos",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 1350,
+    "career_earnings": 18150,
+    "since": 2005,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 112,
+    "rider_name": "Spencer Skipper",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1350,
+    "career_earnings": 3450,
+    "since": 1995,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 114,
+    "rider_name": "Kane Brewer",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 1239,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 114,
+    "rider_name": "Andre Bernardo",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 1239,
+    "career_earnings": 850,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 114,
+    "rider_name": "Matt Holzman",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1239,
+    "career_earnings": 0,
+    "since": 2011,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 117,
+    "rider_name": "Gabriel Brantes",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1230,
+    "career_earnings": 1900,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 117,
+    "rider_name": "Oneill Serrano",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1230,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 117,
+    "rider_name": "Benjamin Ayala",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1230,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 117,
+    "rider_name": "Eduardo Guzman  ",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1230,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 117,
+    "rider_name": "Boris Villalobos",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1230,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 117,
+    "rider_name": "Felix Torres",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1230,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 123,
+    "rider_name": "Liam Lucas",
+    "rider_country": "Australia",
+    "country_code": "au",
+    "total_points": 1140,
+    "career_earnings": 500,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 123,
+    "rider_name": "Sean Uyechi",
+    "rider_country": "USA",
+    "country_code": "us",
+    "total_points": 1140,
+    "career_earnings": 0,
+    "since": 2018,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 123,
+    "rider_name": "Noa Auweloa",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1140,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 123,
+    "rider_name": "Ian McCaulley",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1140,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 123,
+    "rider_name": "Alistair Taylor",
+    "rider_country": "South Africa",
+    "country_code": "za",
+    "total_points": 1140,
+    "career_earnings": 1550,
+    "since": 1995,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 123,
+    "rider_name": "Davin Alexander",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 1140,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 129,
+    "rider_name": "Raul Calderon",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1090,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 129,
+    "rider_name": "Jaime Herrera",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1090,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 131,
+    "rider_name": "Isaac Pobelete",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1060,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 131,
+    "rider_name": "Cristian Calfulem",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 1060,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 133,
+    "rider_name": "Jun Toyama",
+    "rider_country": "Japan",
+    "country_code": "jp",
+    "total_points": 996,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 133,
+    "rider_name": "Pohaku Kekaualua",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 996,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 133,
+    "rider_name": "Tim Hamilton",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 996,
+    "career_earnings": 0,
+    "since": 2004,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 133,
+    "rider_name": "Guilherme Tamega",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 996,
+    "career_earnings": 29650,
+    "since": 1991,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 133,
+    "rider_name": "PJ Tartak",
+    "rider_country": "Puerto Rico",
+    "country_code": "pr",
+    "total_points": 996,
+    "career_earnings": 400,
+    "since": 2011,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 133,
+    "rider_name": "Santiago Kirchner",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 996,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 139,
+    "rider_name": "Kuko Font",
+    "rider_country": "Puerto Rico",
+    "country_code": "pr",
+    "total_points": 894,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 139,
+    "rider_name": "Will Petrovic",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 894,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 141,
+    "rider_name": "Tsuyoshi Maeyama",
+    "rider_country": "Japan",
+    "country_code": "jp",
+    "total_points": 876,
+    "career_earnings": 0,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 141,
+    "rider_name": "Abner de Arce",
+    "rider_country": "Puerto Rico",
+    "country_code": "pr",
+    "total_points": 876,
+    "career_earnings": 200,
+    "since": 2013,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 143,
+    "rider_name": "Kellen Yamasaki",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 858,
+    "career_earnings": 0,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 143,
+    "rider_name": "Helliton Loureiro",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 858,
+    "career_earnings": 21200,
+    "since": 2008,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 143,
+    "rider_name": "Tanek Rucynski",
+    "rider_country": "Hawaii",
+    "country_code": "us",
+    "total_points": 858,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 146,
+    "rider_name": "Taira Takahashi",
+    "rider_country": "Japan",
+    "country_code": "jp",
+    "total_points": 816,
+    "career_earnings": 400,
+    "since": 2017,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 146,
+    "rider_name": "Edson Viera",
+    "rider_country": "Brazil",
+    "country_code": "br",
+    "total_points": 816,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 146,
+    "rider_name": "Nick Enstrom",
+    "rider_country": "South Africa",
+    "country_code": "za",
+    "total_points": 816,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 149,
+    "rider_name": "Joseph Grodzen",
+    "rider_country": "USA",
+    "country_code": "us",
+    "total_points": 774,
+    "career_earnings": 0,
+    "since": 2000,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 149,
+    "rider_name": "Italo Poggini",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 774,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 151,
+    "rider_name": "Tahiri Tehei",
+    "rider_country": "Tahiti",
+    "country_code": "fr",
+    "total_points": 756,
+    "career_earnings": 0,
+    "since": 2016,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 151,
+    "rider_name": "Diego Rojo",
+    "rider_country": "Chile",
+    "country_code": "cl",
+    "total_points": 756,
+    "career_earnings": 0,
+    "since": 2019,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 152,
+    "rider_name": "Antonio Cardoso",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 0,
+    "career_earnings": 20900,
+    "since": 2007,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 153,
+    "rider_name": "Dino Carmo",
+    "rider_country": "Portugal",
+    "country_code": "pt",
+    "total_points": 0,
+    "career_earnings": 12750,
+    "since": 2014,
+    "profile_pic": ""
+  },
+  {
+    "rider_rank": 154,
+    "rider_name": "Alex Uranga",
+    "rider_country": "Basque",
+    "country_code": "es",
+    "total_points": 0,
+    "career_earnings": 47350,
+    "since": 2007,
+    "profile_pic": ""
+  }
+ ]

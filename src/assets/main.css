@@ -74,7 +74,7 @@ header.masthead {
     background-size: cover;
     height: 80px;
     width: 80px;
-    border-radius: 100%;
+    border-radius: 100% !important;
   }
 
 
@@ -137,9 +137,29 @@ li {
     -webkit-backface-visibility: hidden;
   }
 
+
+  .bg-gold2 {
+    background: linear-gradient(65deg, #f0cd6b 50%, #444444 50%);
+    -webkit-backface-visibility: hidden;
+  }
+
+
 .customBtn {
     border-width: 2px;
     border-radius: 0px;
     padding-left: 30px;
     padding-right: 30px;
 }
+
+.customBtnHome {
+    border-width: 2px;
+    border-radius: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button.is-dark.is-inverted.is-outlined.is-focused, .button.is-dark.is-inverted.is-outlined.is-hovered, .button.is-dark.is-inverted.is-outlined:focus, .button.is-dark.is-inverted.is-outlined:hover {
+    background-color: #444444;
+    color: #363636;
+}
+
