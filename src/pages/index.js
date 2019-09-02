@@ -6,6 +6,7 @@ import Header from "../components/header"
 import TopRiders from "../components/topriders";
 import { useStaticQuery, graphql } from "gatsby"
 import BackgroundImage from 'gatsby-background-image'
+import Contribute from '../components/contribute';
 
 const IndexPage = () => {
 
@@ -33,7 +34,7 @@ const IndexPage = () => {
 
 return (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Bodyboarding World Rankings" />
     <BackgroundImage
         style={bgImg}
         Tag="header"
@@ -43,8 +44,10 @@ return (
 
     <Header />
     <TopRiders />
+    <Contribute />
 
     </BackgroundImage>
+
 
   </Layout>
 
