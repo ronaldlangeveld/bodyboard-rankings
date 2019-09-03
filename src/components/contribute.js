@@ -13,7 +13,7 @@ const Contribute = () => {
   <div className="hero-body">
     <div className="container">
 
-    <p className="bigText has-text-weight-bold is-uppercase is-size-4-mobile">I need you to help me add as much rider data as possible. <a className="has-text-warning" href="https://docs.google.com/spreadsheets/d/1bXGIC65TlFut5lshrBRvGGI8XcZA3qri5oLA1WwBKy4/edit?usp=sharing" target="_blank">You can contribute here. </a>
+    <p className="is-size-1 has-text-weight-bold is-uppercase is-size-4-mobile">I need you to help me add as much rider data as possible. <a className="has-text-warning" href="https://docs.google.com/spreadsheets/d/1bXGIC65TlFut5lshrBRvGGI8XcZA3qri5oLA1WwBKy4/edit?usp=sharing" target="_blank">You can contribute here. </a>
      Also, I'm a full stack developer and would love working with you. 
     
     <a className="has-text-warning" href="https://www.ronaldlangeveld.com/work" target="_blank"> Let's get in touch</a>.

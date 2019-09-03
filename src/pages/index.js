@@ -15,6 +15,9 @@ const IndexPage = () => {
     backgroundSize: 'cover',
     position: 'relative',
     backgroundAttachment: 'fixed',
+    height: '100%',
+    width: '100%',
+    overflow: 'hidden'
 
   }
 
