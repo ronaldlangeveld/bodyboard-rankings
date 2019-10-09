@@ -28,6 +28,12 @@ header.masthead {
 		/* overflow: scroll; */
   }
 
+  @media only screen and (max-width: 764px) {
+    header.masthead {
+      overflow:hidden
+    }
+  }
+
   header.masthead .overlay {
     position: absolute;
     top: 0;
