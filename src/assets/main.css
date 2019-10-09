@@ -28,11 +28,17 @@ header.masthead {
 		/* overflow: scroll; */
   }
 
-  @media only screen and (max-width: 764px) {
+
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
     header.masthead {
       overflow:hidden
     }
-  }
+
+}
 
   header.masthead .overlay {
     position: absolute;
